@@ -194,4 +194,4 @@ G.layout()
 G.draw('out.png', prog='dot')
 os.system('eog out.png')
 
-# FINISH
+# FIN
